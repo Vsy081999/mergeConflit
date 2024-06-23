@@ -8,9 +8,6 @@ public void name_1() {
 }
 
 
-public void name_2() {
-	System.out.println("name_2 of master branch");
-}
 
 
 
