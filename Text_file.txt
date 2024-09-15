@@ -1,1 +1,1 @@
-this is properties file
+this is config file
