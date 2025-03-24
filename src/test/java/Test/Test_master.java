@@ -6,5 +6,7 @@ public class Test_master {
 		System.out.println("child child");
 		
 		System.out.println("child child child");
+		
+		System.out.println("child child child child");
 	}
 }
